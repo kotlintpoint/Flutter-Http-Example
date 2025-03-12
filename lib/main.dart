@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_http_demo/user_list.dart';
 
-void main() {
+void main() async {
   runApp(const MyApp());
 }
 
